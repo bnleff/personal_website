@@ -1,0 +1,22 @@
+---
+title: "Blog"
+author: "Brandon Leff"
+output: 
+  html_document: 
+    toc: yes
+    toc_float: yes
+---
+
+# Hello World
+
+Just as the title for this inital post says, hello world! In this section of my website, I will be consistently updating and posting blogs, tutorials, and stories both relevant and not relevant to Data Science.
+
+# What are Data Scientists doing for the COVID-19 Pandemic?
+
+Since the early stages of the virus, there have been public databases that update every day popping up for people interested in data to use. Not only are data scientists providing these datasets, but there is also this public demand for statistics. At this time of worldwide concern, people find comfort and safety in knowing where the virus is and how severe it is. 
+
+Back in February, a classmate of mine referenced this link for data to analyze in R regarding the coronavirus. You can use this link to get updated data.
+
+https://towardsdatascience.com/an-r-package-to-explore-the-novel-coronavirus-590055738ad6
+
+Another question regarding this pandemic is what would I want to do, if I had unlimited time or unlimited resources. I would love to play a role in researching how the disease spreads. We know that it spreads via "droplets" which is why social distancing was put in place, but the idea of "community spread" is not clearly defined. I would love to do research into what exactly community spread means for each city and if we can define where specifically this happens, how could we combat it.

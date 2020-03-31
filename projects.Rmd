@@ -1,0 +1,19 @@
+---
+title: "Projects"
+author: "Brandon Leff"
+output: html_document
+---
+
+# January 30th, 2020
+
+### Intro to Data Science Portfolio
+
+In Fall 2019, I had the opportunity to take CSCI 385 or Intro to Data Science. The class was formatted to where we had a year long portfolio split into three seperate deliverables. The three deliverables were split into three sections of the Data Science Life Cycle:
+
+(1) Data Prep
+(2) Model Building
+(3) Results & Operationalization
+
+This is a link to my project, which I decided to do on App store analytics and app ratings.
+
+[Final Portfolio](https://introdsci.github.io/DataScience-bnleff/)

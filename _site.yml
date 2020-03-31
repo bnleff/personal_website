@@ -1,0 +1,19 @@
+name: "brandon-leff"
+output_dir: "."
+navbar:
+  title: "Brandon Leff"
+  left:
+    - text: "Home"
+      href: index.html
+  right:
+    - text: "Blog"
+      href: blog.html
+    - text: "Projects"
+      href: projects.html
+    - text: "Github"
+      icon: fa-github
+      href: https://github.com/
+output:
+  html_document:
+    theme: readable
+    highlight: pygments
